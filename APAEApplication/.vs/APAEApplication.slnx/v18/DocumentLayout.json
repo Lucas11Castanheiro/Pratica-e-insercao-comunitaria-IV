@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\controllers\\collaboratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\controllers\\collaboratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\collaborator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\collaborator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\collaborator\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\collaborator\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\event\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\event\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E73E0-3402-84D8-4B69-0126758145DB}|Model\\Models.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\model\\collaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E73E0-3402-84D8-4B69-0126758145DB}|Model\\Models.csproj|solutionrelative:model\\collaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E73E0-3402-84D8-4B69-0126758145DB}|Model\\Models.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E73E0-3402-84D8-4B69-0126758145DB}|Model\\Models.csproj|solutionrelative:model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\apaeapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABE320-9CAD-995C-7527-6ED518D1CBCD}|APAEApplication\\APAEApplication.csproj|solutionrelative:apaeapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69356759-F89B-7D58-07BD-A1303016FB6F}|Biblioteca\\Core.csproj|d:\\unoesc - c#\\projeto apae\\apaeapplication\\biblioteca\\enums\\helptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69356759-F89B-7D58-07BD-A1303016FB6F}|Biblioteca\\Core.csproj|solutionrelative:biblioteca\\enums\\helptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollaboratorController.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Controllers\\CollaboratorController.cs",
+              "RelativeDocumentMoniker": "APAEApplication\\Controllers\\CollaboratorController.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Controllers\\CollaboratorController.cs",
+              "RelativeToolTip": "APAEApplication\\Controllers\\CollaboratorController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T22:56:39.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Program.cs",
+              "RelativeDocumentMoniker": "APAEApplication\\Program.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Program.cs",
+              "RelativeToolTip": "APAEApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T22:54:18.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "APAEApplication\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Services\\EmailService.cs",
+              "RelativeToolTip": "APAEApplication\\Services\\EmailService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T22:31:17.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APAEApplication\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APAEApplication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-22T22:32:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APAEApplication\\appsettings.Development.json",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\appsettings.Development.json",
+              "RelativeToolTip": "APAEApplication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-22T22:32:33.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "APAEApplication\\appsettings.json",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\appsettings.json",
+              "RelativeToolTip": "APAEApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-22T22:32:29.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Event\\Delete.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Event\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:37:29.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Collaborator\\Index.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Collaborator\\Index.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Collaborator\\Index.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Collaborator\\Index.cshtml",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwJ0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T23:55:13.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Collaborator\\Create.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Collaborator\\Create.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Collaborator\\Create.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Collaborator\\Create.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwE0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T23:22:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T23:54:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:06:04.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "APAEApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "APAEApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T00:10:16.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:30:28.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminIndex.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\AdminIndex.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Event\\AdminIndex.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\AdminIndex.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Event\\AdminIndex.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:36:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\Update.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Event\\Update.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\Update.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Event\\Update.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:37:13.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "APAEApplication\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Controllers\\EventController.cs",
+              "RelativeToolTip": "APAEApplication\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T23:50:40.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:10:24.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:12:02.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Event\\Index.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:27:49.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:12:04.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "APAEApplication\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "APAEApplication\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-17T00:18:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Collaborator.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\Model\\Collaborator.cs",
+              "RelativeDocumentMoniker": "Model\\Collaborator.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\Model\\Collaborator.cs",
+              "RelativeToolTip": "Model\\Collaborator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T23:52:56.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T00:12:15.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\Model\\Event.cs",
+              "RelativeDocumentMoniker": "Model\\Event.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\Model\\Event.cs",
+              "RelativeToolTip": "Model\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T23:53:03.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HelpType.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\Biblioteca\\Enums\\HelpType.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Enums\\HelpType.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\Biblioteca\\Enums\\HelpType.cs",
+              "RelativeToolTip": "Biblioteca\\Enums\\HelpType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T23:52:42.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "APAEApplication\\Views\\Event\\Create.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "APAEApplication\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T23:54:55.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "APAEApplication\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Projeto APAE\\APAEApplication\\APAEApplication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "APAEApplication\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T23:50:58.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

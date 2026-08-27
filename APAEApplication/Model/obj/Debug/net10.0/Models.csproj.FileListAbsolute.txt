@@ -1,0 +1,60 @@
+C:\Users\lucas\source\repos\APAEApplication\Model\bin\Debug\net10.0\Models.deps.json
+C:\Users\lucas\source\repos\APAEApplication\Model\bin\Debug\net10.0\Models.dll
+C:\Users\lucas\source\repos\APAEApplication\Model\bin\Debug\net10.0\Models.pdb
+C:\Users\lucas\source\repos\APAEApplication\Model\bin\Debug\net10.0\Core.dll
+C:\Users\lucas\source\repos\APAEApplication\Model\bin\Debug\net10.0\Core.pdb
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\Models.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\Models.AssemblyInfo.cs
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.Up2Date
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\Models.dll
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\refint\Models.dll
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\Models.pdb
+C:\Users\lucas\source\repos\APAEApplication\Model\obj\Debug\net10.0\ref\Models.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\bin\Debug\net10.0\Models.deps.json
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\bin\Debug\net10.0\Models.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\bin\Debug\net10.0\Models.pdb
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\bin\Debug\net10.0\Core.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\bin\Debug\net10.0\Core.pdb
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.AssemblyReference.cache
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\Models.AssemblyInfoInputs.cache
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\Models.AssemblyInfo.cs
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.Up2Date
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\Models.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\refint\Models.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\Models.pdb
+C:\Users\ti.maikelen\Downloads\APAEApplication\Model\obj\Debug\net10.0\ref\Models.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\bin\Debug\net10.0\Models.deps.json
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\bin\Debug\net10.0\Models.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\bin\Debug\net10.0\Models.pdb
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\bin\Debug\net10.0\Core.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\bin\Debug\net10.0\Core.pdb
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\Models.csproj.AssemblyReference.cache
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\Models.AssemblyInfoInputs.cache
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\Models.AssemblyInfo.cs
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\Models.csproj.Up2Date
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\Models.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\refint\Models.dll
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\Models.pdb
+C:\Users\ti.maikelen\Downloads\APAEApplication_emails\Model\obj\Debug\net10.0\ref\Models.dll
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\bin\Debug\net10.0\Models.deps.json
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\bin\Debug\net10.0\Models.dll
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\bin\Debug\net10.0\Models.pdb
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\bin\Debug\net10.0\Core.dll
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\bin\Debug\net10.0\Core.pdb
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.AssemblyReference.cache
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\Models.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\Models.AssemblyInfo.cs
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\Models.csproj.Up2Date
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\Models.dll
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\refint\Models.dll
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\Models.pdb
+D:\Unoesc - C#\Projeto APAE\APAEApplication\Model\obj\Debug\net10.0\ref\Models.dll

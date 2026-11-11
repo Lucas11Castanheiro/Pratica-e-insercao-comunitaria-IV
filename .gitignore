@@ -1,0 +1,59 @@
+## ==============================================================================
+## .gitignore - Projeto APAE (Portal Elo)
+## ==============================================================================
+
+# Binários, Compilados e Caches .NET / C#
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Configurações e Caches de IDEs
+.vs/
+**/.vs/
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+*.userprefs
+*.workspace
+
+# Arquivos de Variáveis de Ambiente e Segredos (Segurança)
+.env
+*.env
+*.env.*
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+appsettings.Production.json
+appsettings.*.local.json
+
+# Caches do Gerenciador de Pacotes NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+# Logs e Relatórios
+*.log
+logs/
+**/logs/
+TestResults/
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/

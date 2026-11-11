@@ -1,5 +1,5 @@
-﻿using Infrastructure.Models;
-using Infrastructure.Repository.VirtualDatabase;
+using Infrastructure.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -7,23 +7,28 @@ namespace Infrastructure.Repository
 {
     public class EventRepository
     {
+        private readonly AppDbContext _context;
+
+        public EventRepository(AppDbContext context)
+        {
+            _context = context;
+        }
+
         public void Create(Event newEvent)
         {
-            newEvent.Id = MyData.Events.Count > 0 ? MyData.Events.Max(e => e.Id) + 1 : 1;
-            MyData.Events.Add(newEvent);
+            _context.Events.Add(newEvent);
+            _context.SaveChanges();
         }
 
         public List<Event> GetAll()
         {
-            return MyData.Events;
+            return _context.Events.OrderBy(e => e.Date).ToList();
         }
 
         public Event? GetById(int id)
         {
-            return MyData.Events.FirstOrDefault(e => e.Id == id);
+            return _context.Events.FirstOrDefault(e => e.Id == id);
         }
-
-        // Adicione estes métodos logo abaixo do GetById
 
         public void Update(Event updatedEvent)
         {
@@ -35,6 +40,7 @@ namespace Infrastructure.Repository
                 existingEvent.Description = updatedEvent.Description;
                 existingEvent.ResourcesNeeded = updatedEvent.ResourcesNeeded;
                 existingEvent.Status = updatedEvent.Status;
+                _context.SaveChanges();
             }
         }
 
@@ -43,11 +49,13 @@ namespace Infrastructure.Repository
             var existingEvent = GetById(id);
             if (existingEvent != null)
             {
-                // Exclui o evento
-                MyData.Events.Remove(existingEvent);
+                // Remove colaboradores vinculados
+                var collaborators = _context.Collaborators.Where(c => c.EventId == id).ToList();
+                _context.Collaborators.RemoveRange(collaborators);
 
-                // Exclusão em Cascata: Remove todos os colaboradores atrelados ao evento excluído
-                MyData.Collaborators.RemoveAll(c => c.EventId == id);
+                // Exclui o evento
+                _context.Events.Remove(existingEvent);
+                _context.SaveChanges();
             }
         }
     }

@@ -25,7 +25,7 @@ O **Portal Elo APAE** é uma plataforma web completa desenvolvida em **C# / ASP.
 - **Framework Web:** ASP.NET Core 10 MVC com Razor Views
 - **Acesso a Dados (ORM):** Entity Framework Core 10 (`Microsoft.EntityFrameworkCore`)
 - **Provedor de Banco de Dados:** `MySql.EntityFrameworkCore` (Driver oficial da Oracle para EF Core 10)
-- **SGBD:** MySQL Server 8.0+ / MariaDB 10.5+
+- **SGBD:** MySQL Server 8.0+
 - **Segurança e Criptografia:** Hashing de senhas com SHA-256 e Salt criptográfico (`Infrastructure.Security.PasswordHasher`)
 - **Autenticação:** Cookie Authentication nativo do ASP.NET Core com Claims e Roles (`Admin` e `Voluntario`)
 - **Front-end:** HTML5, CSS3 Customizado (identidade visual APAE), Bootstrap 5, JavaScript Vanilla
